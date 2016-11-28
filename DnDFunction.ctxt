@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DnDFunction()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DnDFunction\r\n
+comment1.params=
+comment1.target=DnDFunction.Character\ getCharacter()
+numComments=2
